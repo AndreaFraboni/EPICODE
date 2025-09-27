@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@400,600&display=swap');
+
+body {
+	margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#special-p {
+	font-size: 2em;
+}
+
+#footer-wrapper{
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1,h4 {
+  margin: 0;
+  font-family: 'Prata', sans-serif;
+}
+
+h1 {
+  color: #7c7a7a;
+}
+
+h1:hover{
+   color: red;  
+}
+
+img {
+  width: 100%;
+}
+
+.inner-content {
+	padding: 12px; 	
+}
+
+.input-field{
+  display: block;
+  width: 100%;
+}
+
+ul {
+  background: linear-gradient(120deg, #27a7b0, rgb(4, 0, 255));
+}
