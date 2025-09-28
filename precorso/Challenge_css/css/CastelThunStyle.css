@@ -16,7 +16,7 @@ body {
 }
 
 .image-container{
-  height: 500px;
+  height: 800px;
   background-image: url("https://www.visittrentino.info/2018/1783629/image-thumb__1783629__lightboximage/inverno-val-di-non-castelli-castel-thun-esterno-ph-museo-castello-buonconsiglio-11-.jpg.jpg");
   background-size: 100%;
   background-position: center;
@@ -48,13 +48,11 @@ h1{
   font-weight: 400;
   font-size: 64px;
   margin-bottom: 0;
-  color: white;
 }
 
 h3{
   margin-bottom: 0;
   font-size: 24 px;
-  color: white;
 }
 
 h6{
